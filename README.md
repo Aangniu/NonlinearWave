@@ -1,5 +1,5 @@
 # NonlinearWave
-A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS project.
+A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS package.
 
 - WaveProp1D-MPII.ipynb: Full MPII model that considers multiple yielding surface
 
