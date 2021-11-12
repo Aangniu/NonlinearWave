@@ -1,7 +1,7 @@
 # NonlinearWave
 A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS package.
 
-- WaveProp1DVeri.ipynb: The bone curve of MPII and try to verify the solution withe the Method of Manufactured Solutions
+- WaveProp1D-Veri.ipynb: The bone curve of MPII and try to verify the solution withe the Method of Manufactured Solutions
 
 - WaveProp1D-MPII.ipynb: Full MPII model that considers multiple yielding surface
 
