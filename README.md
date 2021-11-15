@@ -5,7 +5,7 @@ A collection of Jupyter notebooks that tests different nonlinear models based on
 
 - WaveProp1D-Veri.ipynb: The bone curve of MPII and try to verify the solution with the Method of Manufactured Solutions
 
-- WaveProp1D-MPII.ipynb: Full MPII model that considers multiple yielding surface
+- WaveProp1D-MPII-Tidy.ipynb: Full MPII model that considers multiple yielding surface
 
 - WaveProp1D.ipynb: Only the bone curve of MPII model, more or less a non-linear elasticity model
 
