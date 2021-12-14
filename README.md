@@ -1,6 +1,8 @@
 # NonlinearWave
 A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS package.
 
+- WaveProp1D-Internal-Explicit.ipynb: Internal variable model with sofening, hysteresis and healing
+
 - Sensitivity-Wave-Veri-Cleaned.ipynb: Code for testing the sensitivity analysis with dolfin-adjoint package (http://www.dolfin-adjoint.org/en/latest/documentation/verification.html)
 
 - WaveProp1D-MPII-absTest.ipynb: Full MPII model that considers multiple yielding surface, testing the correctness of abs() function
