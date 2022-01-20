@@ -1,6 +1,8 @@
 # NonlinearWave
 A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS package.
 
+- DG-1DWaveProp-Internal-Clean.ipynb: Implemented with DG method. Internal variable model with sofening, hysteresis and healing (https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0024). The results are quanlitatively matching those in the paper. But the BCs for DG=0 are still with problems. This will be figured out in the next version. (Jan. 20th, 2022)
+
 - WaveProp1D-Internal-Explicit.ipynb: Internal variable model with sofening, hysteresis and healing (https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0024)
 
 - Sensitivity-Wave-Veri-Cleaned.ipynb: Code for testing the sensitivity analysis with dolfin-adjoint package (http://www.dolfin-adjoint.org/en/latest/documentation/verification.html)
