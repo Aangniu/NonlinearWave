@@ -1,6 +1,8 @@
 # NonlinearWave
 A collection of Jupyter notebooks that tests different nonlinear models based on FEniCS package.
 
+DG-1DWaveProp-Internal-NewFunc2.ipynb: Implemented with DG method. Internal variable model with sofening, hysteresis and healing (https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0024). The new function for evolution of the internal variable is proposed. And problems with the BCs for DG=0 have been solved. (Feb. 22th, 2022)
+
 - DG-1DWaveProp-Internal-Clean.ipynb: Implemented with DG method. Internal variable model with sofening, hysteresis and healing (https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0024). The results are quanlitatively matching those in the paper. But the BCs for DG=0 are still with problems. This will be figured out in the next version. (Jan. 20th, 2022)
 
 - WaveProp1D-Internal-Explicit.ipynb: Internal variable model with sofening, hysteresis and healing (https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2017.0024)
